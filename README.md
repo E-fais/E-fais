@@ -1,5 +1,7 @@
-<h1 align="center">Hi , I'm Fais</h1>
-- I am Fais Edathil , I'm a  reactjs developer.Currently learnig Nodejs and MongoDB. I'm interested to contribute in html,css , JavaScript and Reactjs projects.My goal is to become a full stack developer.
+<h1 align="center">Fais Edathil</h1>
+<h2> A chemist who loves to code</h2>
+-Looking forward to contribute in html,css , JavaScript and Reactjs projects.I am 
+currently learnig Nodejs and MongoDB. My goal is to become a full stack developer.
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
