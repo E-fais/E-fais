@@ -1,6 +1,7 @@
 <h1 align="center">Fais Edathil</h1>
 <h2> A chemist who loves to code</h2>
--Looking forward to contribute in html,css , JavaScript and Reactjs projects.I am 
+-Chemist by profession developer by passion
+Looking forward to contribute in html,css , JavaScript and Reactjs projects.I am 
 currently learnig Nodejs and MongoDB. My goal is to become a full stack developer.
 <h4> Languages </h4>
 <span> 
