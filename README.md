@@ -33,3 +33,6 @@ currently learnig Nodejs and MongoDB. My goal is to become a full stack develope
 <a href="https://www.linkedin.com/in/fais-edathil-815896241/" target="blank"><img align="center" src="https://coreonlinemarketing.com/wp-content/uploads/2013/08/linkedin.png" height="30" width="40" /></a>
 <h4> My Articles </h4>
 <a href='https://e-fais.github.io/framer-motion-articles/'> Framer Motion Tutorial </a>
+<a href="https://gist.github.com/E-fais/f465171f739b89433fbf57b884593250"> Firebase Crud Operation </a>
+<a href="https://gist.github.com/E-fais/f2d82b1f65fb611819607f4737ea8d4f">React Pagination Using MUI </a>
+
