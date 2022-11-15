@@ -34,6 +34,8 @@ currently learnig Nodejs and MongoDB. My goal is to become a full stack develope
 <h4><a href='https://fais-resume.netlify.app/'>My Digital Resume </a></h4>
 <h3>My Achievements</h3>
 <p>Successfully Completed Digital Ocean HactoberFest 2022</p>
+<a href='https://dev.to/efais' target="_blanc"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png"></a>
+
 <h3> My Articles </h3>
 <h4><a href='https://e-fais.github.io/framer-motion-articles/'> Framer Motion Tutorial </a></h4>
 <h4>My Useful Gists For Beginners </h4>
