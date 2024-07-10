@@ -1,7 +1,6 @@
 <h1 align="center">Fais Edathil</h1>
 <h2> A chemist who loves to code</h2>
-- Looking forward to contribute in html,css , JavaScript and Reactjs projects.I am 
-currently learnig python. My goal is to  become machine learning engineer.
+Looking forward to contributing to HTML, CSS, JavaScript, React.js, and Python projects. I am currently learning Python. My goal is to become a machine learning engineer.
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
